@@ -14,7 +14,7 @@ This project is a simple port scanner application that allows you to scan a rang
 ## How to Run the Application
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/port-scanner.git
+    git clone https://github.com/JMiller007/Port-Scanner.git
     cd port-scanner
     ```
 
